@@ -1,7 +1,7 @@
 # To-Do List | TypeScript Application
 
 ## Tech-Stack:
-HTML5 | CSS3 | TypeScript
+HTML5 | CSS3 | TypeScript | Vite
 
 ## App's functionalities:
 - Creating new tasks and adding them to the list

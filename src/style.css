@@ -1,0 +1,24 @@
+.main-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#list {
+  list-style: none;
+  padding: 0;
+  width: 250px;
+}
+
+#li {
+  display: flex;
+  width: 100%;
+}
+
+label {
+  display: block;
+  word-wrap: break-word;
+  white-space: normal;
+}
